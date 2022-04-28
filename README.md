@@ -7,5 +7,7 @@ A simple version of HTTP proxy supported the following functionalities:
 (3) Caching: Evict stale items first, then LRU items. 
 ```
 ## Usage
+```bash
 make
 ./a.out [port]
+```
