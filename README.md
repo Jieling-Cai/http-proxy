@@ -1,6 +1,6 @@
-# Http Proxy
+# HTTP Proxy
 This is a simple version of HTTP proxy supported the following functionalities:
-(For a much more complex and comprehensive version of an HTTP proxy, pls reference "CS-112-Final-Project" repository)
+(For a much more complex and comprehensive version of a proxy server, pls reference "CS-112-Final-Project" repository)
 
 ```bash
 (1) Listen on a port for client connection requests.
